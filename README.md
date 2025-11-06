@@ -83,6 +83,11 @@ Base URL: `http://localhost:3000/api/items`
 ## Link do Repositório
 - https://github.com/brazneto1985/crud-mongodb-braz/tree/master
 
+## Vídeo de Demonstração
+
+[Clique aqui para ver o vídeo demonstrando a execução do servidor e os testes no Postman.][(https://drive.google.com/file/d/1l6-v85jiCV0DtoeM3v0q9YI7N6zzZeeC/view?usp=sharing)]
+
+
 ## Entregáveis
 - `README.md` (este arquivo)
 - `server.js`
