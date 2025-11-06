@@ -81,7 +81,7 @@ Base URL: `http://localhost:3000/api/items`
 - `npm start` – Inicia com `node` (produção)
 
 ## Link do Repositório
-- Substitua aqui pelo link após publicar: `<link-do-repositorio>`
+- https://github.com/brazneto1985/crud-mongodb-braz/tree/master
 
 ## Entregáveis
 - `README.md` (este arquivo)
